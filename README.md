@@ -1,16 +1,16 @@
-## Hi there 👋
+## Hola! 👋
 
-<!--
-**Melanie-cp/Melanie-cp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy Melanie, diseñadora y desarrolladora fullstack trainee en formación. 
+Me dedico al diseño y a estudiar desarrollo web para ampliar este campo laboral donde puedo juntar mis dos pasiones y generar cambios con creatividad y funcionalidad. 
 
-Here are some ideas to get you started:
+Actualmente estoy terminando el curso fullstack javascript trainee , en la academia Desafío Latam. Cuento con experiencia en el mundo del diseño la cual sumada a mis habilidades técnicas para el desarrollo tanto en el back end como front end me permiten adaptarme a variados proyectos, tengo muchas ganas de aprender y aportar!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Based in 🇨🇱
+📫 How to reach me: **melanie.collins.p@gmail.com**
+<a href="https://www.linkedin.com/in/m-collins-p/">
+  <img align="left" alt="Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
+</a>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bri-ramirez&show_icons=true&locale=en&layout=compact" alt="bri-ramirez" /></p>
+
+
