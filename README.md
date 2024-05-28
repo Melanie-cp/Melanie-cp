@@ -8,11 +8,17 @@ Actualmente estoy terminando el curso fullstack javascript trainee , en la acade
 Based in 🇨🇱
 
 <h3 align="left"> 📫  Connect with me:</h3>
-**melanie.collins.p@gmail.com**
+melanie.collins.p@gmail.com
 
 <a href="https://www.linkedin.com/in/m-collins-p/">
   <img align="center" alt="Linkdin" width="21px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/099dc12b59179d07d534069bc8551718f786d91a/images/svg/linkedin.svg" />
 </a>
+
+
+<h3 align="left">Languages and Tools:</h3>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bri-ramirez&show_icons=true&locale=en&layout=compact" alt="bri-ramirez" /></p>
 
